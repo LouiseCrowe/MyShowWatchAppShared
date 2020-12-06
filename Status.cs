@@ -6,7 +6,7 @@ namespace MyShowWatch.Shared
 {
     public enum Status
     {
-        Available, AwaitingRelease, NoReleaseDate, Watched
+        Available, AwaitingRelease, NoReleaseDate
     }
 
 }

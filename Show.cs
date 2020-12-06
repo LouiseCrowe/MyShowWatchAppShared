@@ -13,11 +13,17 @@ namespace MyShowWatch.Shared
 
         public Status Status { get; set; }
 
+        public bool IsWatched { get; set; }
+
         public DateTime? ReleaseDate { get; set; }
 
         public bool IsKidFriendly { get; set; }
+              
+        public bool SeriesComplete { get; set; }
 
-        public int? LatestSeason { get; set; }
+        public int? NumSeasonsConfirmed { get; set; }
+
+        public int? LatestSeasonAvailable { get; set; }
 
         public int? NumEpisodes { get; set; }
 

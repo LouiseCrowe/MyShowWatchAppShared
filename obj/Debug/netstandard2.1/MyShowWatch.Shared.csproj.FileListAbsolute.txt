@@ -6,3 +6,4 @@ C:\BLAZOR\CA3MyShowWatch\MyShowWatch\MyShowWatch\Shared\obj\Debug\netstandard2.1
 C:\BLAZOR\CA3MyShowWatch\MyShowWatch\MyShowWatch\Shared\obj\Debug\netstandard2.1\MyShowWatch.Shared.csproj.CoreCompileInputs.cache
 C:\BLAZOR\CA3MyShowWatch\MyShowWatch\MyShowWatch\Shared\obj\Debug\netstandard2.1\MyShowWatch.Shared.dll
 C:\BLAZOR\CA3MyShowWatch\MyShowWatch\MyShowWatch\Shared\obj\Debug\netstandard2.1\MyShowWatch.Shared.pdb
+C:\BLAZOR\CA3MyShowWatch\MyShowWatch\MyShowWatch\Shared\obj\Debug\netstandard2.1\MyShowWatch.Shared.csprojAssemblyReference.cache

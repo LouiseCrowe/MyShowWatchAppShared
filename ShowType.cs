@@ -6,6 +6,6 @@ namespace MyShowWatch.Shared
 {
     public enum ShowType
     {
-        BoxSet, Documentary, Movie
+        TVShow, Documentary, Movie
     }
 }

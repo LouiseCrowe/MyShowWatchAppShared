@@ -28,6 +28,6 @@ namespace MyShowWatch.Shared
         public int? NumEpisodes { get; set; }
 
         public string Description { get; set; }
-
+       
     }
 }

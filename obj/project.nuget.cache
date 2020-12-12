@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I9ZjXoZ0i0/6A8Lt8xJSSyjCR9cEZw5K1Qrca/r60MZdMfcb8+kLYPe13ufVAW7xJR0R0WG2+a/2TUb3l76ZUg==",
+  "dgSpecHash": "sgqo3cOnL0oS6/eFOa6/WymxQltRcUOaQmvJqDzZXOhzhEuVKR69FyHTxsjVc9L+5bokPY4ThlcNauqaSNewEw==",
   "success": true,
-  "projectFilePath": "C:\\BLAZOR\\CA3MyShowWatch\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
+  "projectFilePath": "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

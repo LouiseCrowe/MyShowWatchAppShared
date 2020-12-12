@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BLAZOR\\CA3MyShowWatch\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj": {}
+    "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj": {}
   },
   "projects": {
-    "C:\\BLAZOR\\CA3MyShowWatch\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj": {
+    "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BLAZOR\\CA3MyShowWatch\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
+        "projectUniqueName": "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
         "projectName": "MyShowWatch.Shared",
-        "projectPath": "C:\\BLAZOR\\CA3MyShowWatch\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
+        "projectPath": "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
         "packagesPath": "C:\\Users\\LouiseEmily\\.nuget\\packages\\",
-        "outputPath": "C:\\BLAZOR\\CA3MyShowWatch\\MyShowWatch\\MyShowWatch\\Shared\\obj\\",
+        "outputPath": "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace MyShowWatch.Shared
@@ -7,8 +7,10 @@ namespace MyShowWatch.Shared
 
     public class Show
     {
+        [Required(ErrorMessage ="Please include the show title")]
         public string Title { get; set; }                   // show title
 
+        [Required(ErrorMessage = "Please select a show type")]
         public ShowType ShowType { get; set; }              // movie, tv show, documentary
 
         public Status Status { get; set; }                  // show ongoing indicates 
@@ -23,7 +25,6 @@ namespace MyShowWatch.Shared
                                                             // are there any future releases planned
         public int? NumSeasonsConfirmed { get; set; }       // number of seasons confirmed
                                                             // may or may not be available to view yet
-
         public int? LatestSeasonAvailable { get; set; }     // number of latest season available
 
         public int? NumEpisodes { get; set; }               // number of episodes in latest season
@@ -38,17 +39,3 @@ namespace MyShowWatch.Shared
     }
 }
 
-namespace MyShowWatch.Shared
-{
-    static class Test
-    {
-        static void Main()
-        {
-            Show s1 = new Show();
-            
-            s1.ReleaseDate = new DateTime(2020, 12, 25);
-
-            Console.WriteLine(s1.ReleaseDate.Value.ToShortDateString());
-        }
-    }
-}

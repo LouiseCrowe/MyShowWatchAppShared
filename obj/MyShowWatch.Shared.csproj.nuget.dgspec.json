@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj": {}
+    "C:\\BLAZOR\\CA3 - Copy\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj": {}
   },
   "projects": {
-    "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj": {
+    "C:\\BLAZOR\\CA3 - Copy\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
+        "projectUniqueName": "C:\\BLAZOR\\CA3 - Copy\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
         "projectName": "MyShowWatch.Shared",
-        "projectPath": "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
+        "projectPath": "C:\\BLAZOR\\CA3 - Copy\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
         "packagesPath": "C:\\Users\\LouiseEmily\\.nuget\\packages\\",
-        "outputPath": "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\obj\\",
+        "outputPath": "C:\\BLAZOR\\CA3 - Copy\\MyShowWatch\\MyShowWatch\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -26,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
           "netstandard2.1": {
@@ -43,6 +44,12 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

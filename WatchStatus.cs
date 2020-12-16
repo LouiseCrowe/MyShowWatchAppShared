@@ -4,9 +4,8 @@ using System.Text;
 
 namespace MyShowWatch.Shared
 {
-    public enum Status
+    public enum WatchStatus
     {
-        Available, AwaitingRelease, NoReleaseDate
+        NotWatched, Watching, Watched
     }
-
 }

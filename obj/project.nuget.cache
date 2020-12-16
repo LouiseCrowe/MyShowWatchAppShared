@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IuU/mJ5F4clu05HuqHVNssu7dkysdrloituOKczm9s4ZjezKowsaYyOU1tQvt2luq0D0wngibjud7a2WzY3Oow==",
+  "dgSpecHash": "kuGxFeCYEg9eKygvOcSAVyZshaShTVoN+T4+DAwg77ANSMezIFyME7gVXv8cA0gXrUbX4AxoOZ98BTAi2sdLQg==",
   "success": true,
-  "projectFilePath": "C:\\BLAZOR\\CA3 - Copy\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
+  "projectFilePath": "C:\\BLAZOR\\CA3\\MyShowWatch\\MyShowWatch\\Shared\\MyShowWatch.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LouiseEmily\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],

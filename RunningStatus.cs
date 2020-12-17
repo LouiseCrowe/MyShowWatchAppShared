@@ -1,6 +1,6 @@
 ﻿namespace MyShowWatch.Shared
 {
-    public enum RunningStatus
+    public enum RunningStatus                       // is show still running or not
     {
         Ongoing, Finished
     }

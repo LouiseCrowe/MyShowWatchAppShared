@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MyShowWatch.Shared
+﻿namespace MyShowWatch.Shared
 {
-    public enum ShowType
+    public enum ShowType                            // indicates type of show
     {
         TVShow, Documentary, Movie
     }
